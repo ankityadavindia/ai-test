@@ -1,4 +1,4 @@
-# Successfully added the code the in main.py file. In the section add your magic
+# Successfully added the code in main.py file. In the section add your magic
 # 🚀 The AI Developer Challenge
 
 ### Make Something Insanely Great
