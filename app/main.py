@@ -51,7 +51,7 @@ def execute(model: AppModel) -> None:
     # ------------------------------
     # TODO : add your magic here
     # ------------------------------
-# Insert the completed code into main.py by replacing the TODO section
+Replacing the TODO section
 completed_main_py_content = """
 import logging
 from typing import Dict
@@ -118,11 +118,6 @@ def execute(model: AppModel) -> None:
         model.response.message = f"An error occurred while processing the request: {str(e)}"
 """
 
-# Save the updated main.py file
-with open(main_py_path, "w") as file:
-    file.write(completed_main_py_content)
-
-"/mnt/data/ai-test/app/main.py has been updated successfully."
 
     
 
