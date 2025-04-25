@@ -117,11 +117,6 @@ def execute(model: AppModel) -> None:
         logging.error(f"Execution failed: {e}")
         model.response.message = f"An error occurred while processing the request: {str(e)}"
 """
-
-
-    
-
-
     # Prepare response
     response: OutputClass = model.response
     response.message = f"Echo: {request.prompt}"
