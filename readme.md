@@ -1,4 +1,4 @@
-
+# Successfully added the code the in main.py file. In the section add your magic
 # 🚀 The AI Developer Challenge
 
 ### Make Something Insanely Great
@@ -197,3 +197,11 @@ We're zeroing in on:
 * 👍 Inventiveness that dazzles.
 * 👍 A problem-solving beast.
 * 👍 Unwavering adherence to the brief
+
+
+I have successfully added my code in main.py file you can have a look at it. 
+
+
+
+
+
